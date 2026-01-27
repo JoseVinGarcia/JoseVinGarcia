@@ -1,4 +1,6 @@
-- 🌱 Aprendendo Python e as vezes C
+José Vinícius Garcia. Nascido em 2002, busco estudar programação, mais especificamente a área de Dados. Atuo também como desenvolvedor de jogos, atualmente desenvolvendo Macis.
+
+- 🌱 Conheço: Python, C e GML.
 - 📫 Meu Discord: spellxviii #4603
 
 <!---
