@@ -1,4 +1,5 @@
-José Vinícius Garcia. Nascido em 2002, busco estudar programação, mais especificamente a área de Dados. Atuo também como desenvolvedor de jogos, atualmente desenvolvendo Macis.
+José Vinícius Garcia. Nascido em 2002, busco estudar programação, mais especificamente a área de Dados. No geral, estou aqui para aprender de tudo um pouco.
+Atuo esporadicamente também como desenvolvedor de jogos.
 
 - 🌱 Conheço: Python, C e GML.
 - 📫 Meu Discord: spellxviii #4603
